@@ -15,5 +15,5 @@ add_executable(Thread
         Condition.h Condition.cpp
         Mutex.h Thread.h Thread.cpp
         ThreadPool.h ThreadPool.cpp
-
-        )
+        ParallelSort.h
+        ParallelSort.cpp)
